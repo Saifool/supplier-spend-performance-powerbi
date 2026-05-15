@@ -147,4 +147,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 ---
 
-*Built by Saif | Data Analyst · Indirect Buyer | [LinkedIn](#) | May 2026*
+*Built by Saif | Data Analyst · Indirect Buyer | [LinkedIn](#www.linkedin.com/in/saiful-analyst) | May 2026*
