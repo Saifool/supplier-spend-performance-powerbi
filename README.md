@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Delivery & Lead Time:** On-time delivery rates, average lead times, and department-level pain points
 - **Compliance & Invoice Health:** Maverick spend, invoice match rates, disputed invoices, and overdue payment exposure
 
-> 📸 Screenshots of each dashboard page are embedded throughout this README. A short walkthrough video of the interactive dashboard can be viewed here: **[link]**
+> 📸 Screenshots of each dashboard page are embedded throughout this README. 
 
 ---
 
@@ -21,9 +21,6 @@ The dataset consists of a single flat table exported from the company's ERP syst
 
 - **PO Transactions Table:** One row per PO line. Key fields include PO Number, PO Date, PO Year/Quarter/Month, PO Type, PO Status, Supplier ID, Supplier Name, Supplier Country, Supplier Region, Supplier Tier, Supplier Risk, Supplier ESG Score, Payment Terms, Item Code, Item Description, Category, Sub-Category, Unit of Measure, Unit Price, Quantity, Discount, Tax, Line Total, Currency, Budget Unit Price, Budget Total, Savings Amount, Requested Delivery, Actual Delivery, Days Late, On Time Delivery, Lead Time Days, Department, Cost Centre, Requestor, Approver, Contract ID, Contract Type, Contract Start/End, Invoice Status, Payment Status, Invoice Match Type, Maverick Spend Flag, Single Source Flag, Preferred Supplier Flag, and Local/International flag.
 
-- **Supplier Reference Table:** A lookup table mapping supplier name variants to a single standardised supplier name, built in Power Query during the data preparation phase.
-
-> 📸 *[Data model screenshot to be added here]*
 
 ---
 
@@ -147,4 +144,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 ---
 
-*Built by Saif | Data Analyst · Indirect Buyer | [LinkedIn](www.linkedin.com/in/saiful-analyst) | May 2026*
+*Built by Saiful Islam | Data Analyst · Indirect Buyer | [LinkedIn](https://www.linkedin.com/in/saiful-analyst) | May 2026*
